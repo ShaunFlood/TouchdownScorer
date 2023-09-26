@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6RBBn19DqHtTz4oYzKt1OyiULDb1DRJ5ETNjBQWsMXTRUb9oZyVGwWNIwTHTNUeBv3baETohiRyS/CI0t47FeQ==",
+  "dgSpecHash": "wdtypX2o3I4aoQkMVPI9PjSimzVP/patEMLrlJxEvvwrH3S3QNbjudZN+wpVbgnEugISWF0umP0HvSVS3eVURQ==",
   "success": true,
   "projectFilePath": "E:\\Projects\\TouchdownScorer\\WebScraper\\WebScraper.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shaun\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\shaun\\.nuget\\packages\\htmlagilitypack\\1.11.53\\htmlagilitypack.1.11.53.nupkg.sha512",
     "C:\\Users\\shaun\\.nuget\\packages\\htmlagilitypack.cssselectors\\1.0.2\\htmlagilitypack.cssselectors.1.0.2.nupkg.sha512",
     "C:\\Users\\shaun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",

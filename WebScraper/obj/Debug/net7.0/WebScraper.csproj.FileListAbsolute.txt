@@ -13,3 +13,8 @@ E:\Projects\TouchdownScorer\WebScraper\obj\Debug\net7.0\refint\WebScraper.dll
 E:\Projects\TouchdownScorer\WebScraper\obj\Debug\net7.0\WebScraper.pdb
 E:\Projects\TouchdownScorer\WebScraper\obj\Debug\net7.0\WebScraper.genruntimeconfig.cache
 E:\Projects\TouchdownScorer\WebScraper\obj\Debug\net7.0\ref\WebScraper.dll
+E:\Projects\TouchdownScorer\WebScraper\bin\Debug\net7.0\HtmlAgilityPack.dll
+E:\Projects\TouchdownScorer\WebScraper\bin\Debug\net7.0\HtmlAgilityPack.CssSelectors.dll
+E:\Projects\TouchdownScorer\WebScraper\obj\Debug\net7.0\WebScraper.csproj.AssemblyReference.cache
+E:\Projects\TouchdownScorer\WebScraper\obj\Debug\net7.0\WebScraper.csproj.CopyComplete
+E:\Projects\TouchdownScorer\WebScraper\bin\Debug\net7.0\CsvHelper.dll
